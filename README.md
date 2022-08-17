@@ -1,8 +1,8 @@
 <h1 align="center"> I'm Kosma</h1>
 <h3 align="center">Young guy with passion to business and coding</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/monkey-pissed-mad-angry-furious-gif-4720563">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif?cid=790b7611b041dab670f5878d7280cf898965df999b009734&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kosmaelpe&label=Profile%20views&color=0e75b6&style=flat" alt="kosmaelpe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/goeasyit" target="blank"><img src="https://img.shields.io/twitter/follow/goeasyit?logo=twitter&style=for-the-badge" alt="goeasyit" /></a> </p>
 
