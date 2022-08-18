@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/goeasyit" target="blank"><img src="https://img.shields.io/twitter/follow/goeasyit?logo=twitter&style=for-the-badge" alt="goeasyit" /></a> </p>
 
-- 🔭 I’m currently working on **Circle and Cross Project**
+- 🔭 I’m currently working on **OffLine Dino Game**
 
 - 🌱 I’m currently learning **JS and React**
 
