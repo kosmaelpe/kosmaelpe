@@ -6,15 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/goeasyit" target="blank"><img src="https://img.shields.io/twitter/follow/goeasyit?logo=twitter&style=for-the-badge" alt="goeasyit" /></a> </p>
 
-- 🔭 I’m currently working on **OffLine Dino Game**
-
 - 🌱 I’m currently learning **JS and React**
 
-- 🤝 I’m looking for help with **learning JS**
+- 📫 My e-mail **kosmapajor@gmail.com**
 
-- 📫 How to reach me **kosmapajor@gmail.com**
-
-- ⚡ Fun fact **I am learning on my own :)**
+- ⚡  **I am learning on my own :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
